@@ -1,2 +1,2 @@
 # webhook-repo
-Changed info.py
+Changed info.py and spotify.py
