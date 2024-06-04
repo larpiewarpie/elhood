@@ -1,3 +1,1 @@
-# *update*
-bot faster and more commmands
-
+gegwgwegwgwegwegwgwwgg
