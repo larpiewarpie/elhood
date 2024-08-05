@@ -1,2 +1,2 @@
-# *update*
-changed some bugs >.<
+# *luh changes*
+fixed some bugs >.<
