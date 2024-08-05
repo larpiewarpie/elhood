@@ -1,3 +1,2 @@
 # *update*
-bot faster and more commmands
-
+changed some bugs >.<
